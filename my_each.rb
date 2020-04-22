@@ -9,3 +9,4 @@ def my_each(array)
  else
    puts "Hey! No block was given!"
   end
+end
